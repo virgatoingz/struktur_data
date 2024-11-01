@@ -1,0 +1,1 @@
+ini contoh ngepush ke git buat nisa
